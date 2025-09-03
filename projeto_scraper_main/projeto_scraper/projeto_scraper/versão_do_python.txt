@@ -1,1 +1,0 @@
-Precisa ser o python 3.11.13 para funcionar corrtamente e atualizar o pip (pip install --upgrade pip) e baixar os pacotes (pip install -r requirements.txt), se quiser testar
